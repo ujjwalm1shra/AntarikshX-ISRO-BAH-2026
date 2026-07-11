@@ -60,8 +60,9 @@ AntarikshX-ISRO-BAH-2026/
 ├── papers/                # Reviewed academic literature & source material
 ├── reports/               # Generated technical evaluation charts
 └── tests/                 # Unit testing suites
+```
 ---
-### 🛠️ Local Environment Launch Setup
+## 🛠️ Local Environment Launch Setup
 
 ## Acquire the Repository
 
