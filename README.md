@@ -72,7 +72,7 @@ cd AntarikshX-ISRO-BAH-2026
 git checkout dev
 pip install -r requirements.txt
 ```
-### 🌿 Operational Branch Strategy / How to Contribute
+### Operational Branch Strategy / How to Contribute
 To ensure zero code conflicts, the team follows strict version control rules:
 
 🔒 main Branch: Protected production environment. Direct commits are strictly locked.
