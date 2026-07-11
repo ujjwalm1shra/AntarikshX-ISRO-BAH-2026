@@ -61,10 +61,39 @@ AntarikshX-ISRO-BAH-2026/
 ├── reports/               # Generated technical evaluation charts
 └── tests/                 # Unit testing suites
 ---
-## 🛠️ Local Environment Launch Setup
+### 🛠️ Local Environment Launch Setup
 
-### 1. Acquire the Repository
+## Acquire the Repository
+
 ```bash
 git clone [https://github.com/ujjwalm1shra/AntarikshX-ISRO-BAH-2026.git](https://github.com/ujjwalm1shra/AntarikshX-ISRO-BAH-2026.git)
 cd AntarikshX-ISRO-BAH-2026
+git checkout dev
+pip install -r requirements.txt
+```
+### 🌿 Operational Branch Strategy / How to Contribute
+To ensure zero code conflicts, the team follows strict version control rules:
+
+🔒 main Branch: Protected production environment. Direct commits are strictly locked.
+
+🛠️ dev Branch: Integration sandbox. All completed team features merge here first.
+
+🌿 feature/ Branches: Isolated local development environments.
+
+## Daily Feature Workflow
+
+```bash
+# 1. Update your local blueprint map
+git fetch origin
+
+# 2. Teleport into your dedicated workspace branch
+git checkout feature/your-assigned-feature
+
+# 3. Code your feature, stage, and save it locally
+git add .
+git commit -m "feat: implemented core mathematical logic"
+
+# 4. Upload directly to your feature branch cloud
+git push origin feature/your-assigned-feature
+```
 
