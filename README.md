@@ -64,7 +64,7 @@ AntarikshX-ISRO-BAH-2026/
 ---
 ## 🛠️ Local Environment Launch Setup
 
-# Acquire the Repository
+### Acquire the Repository
 
 ```bash
 git clone [https://github.com/ujjwalm1shra/AntarikshX-ISRO-BAH-2026.git](https://github.com/ujjwalm1shra/AntarikshX-ISRO-BAH-2026.git)
@@ -81,7 +81,7 @@ To ensure zero code conflicts, the team follows strict version control rules:
 
 🌿 feature/ Branches: Isolated local development environments.
 
-## Daily Feature Workflow
+### Daily Feature Workflow
 
 ```bash
 # 1. Update your local blueprint map
