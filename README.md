@@ -64,7 +64,7 @@ AntarikshX-ISRO-BAH-2026/
 ---
 ## 🛠️ Local Environment Launch Setup
 
-## Acquire the Repository
+# Acquire the Repository
 
 ```bash
 git clone [https://github.com/ujjwalm1shra/AntarikshX-ISRO-BAH-2026.git](https://github.com/ujjwalm1shra/AntarikshX-ISRO-BAH-2026.git)
